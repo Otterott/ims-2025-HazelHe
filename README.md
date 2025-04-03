@@ -2,5 +2,4 @@
 
 ## wk02-Dizzy-Dizzy
 
-- [wk02-hw](Dizzy_Dizzy_)
-- 
+- [wk02-homework](Dizzy_Dizzy_)
