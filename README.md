@@ -6,6 +6,6 @@
 
 ## wk03-Circle-Pattern-Generator
 
-- [week3-homework](Week3 - Circle_Pattern_Generator](https://github.com/Otterott/ims-2025-HazelHe/tree/main/Week3%20-%20Circle_Pattern_Generator)
+- [week3-homework](Week3 - Circle_Pattern_Generator)
 
 ## wk04-Final-Project-Proposal
