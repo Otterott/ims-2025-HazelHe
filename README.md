@@ -9,3 +9,4 @@
 - [Week3-homework](https://github.com/Otterott/ims-2025-HazelHe/tree/dff9749b352ee476ef8825810e6306e9331ec1db/Week3%20-%20Circle_Pattern_Generator)
 
 ## wk04-Final-Project-Proposal
+- [The Willoughby Curtain](https://docs.google.com/document/d/1szzoGOAFv8XoXR8ze5ELidPI4QUz6GAydTrsZUaaDQQ/edit?tab=t.0)
